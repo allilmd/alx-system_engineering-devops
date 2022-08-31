@@ -1,1 +1,1 @@
-copy file
+symbolic link
