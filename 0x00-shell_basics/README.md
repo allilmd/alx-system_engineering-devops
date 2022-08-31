@@ -1,1 +1,1 @@
-delete first file
+direct delete
