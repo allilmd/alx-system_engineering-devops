@@ -1,1 +1,1 @@
-permission granted
+symbolic link
