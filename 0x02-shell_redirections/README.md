@@ -1,1 +1,1 @@
-Very confused emoji
+display all file contents
