@@ -1,1 +1,1 @@
-remove all js files
+list all directories and sub
