@@ -1,1 +1,1 @@
-duplicate lst line
+remove all js files
