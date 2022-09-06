@@ -1,1 +1,1 @@
-9-divided_and_rule
+9-divide_and_rule
