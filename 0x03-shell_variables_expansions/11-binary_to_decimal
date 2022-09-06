@@ -1,2 +1,2 @@
 #!/bin/bash
-echo [base#]2
+echo "obase=2"
